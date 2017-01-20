@@ -7,5 +7,12 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+     "autoload": {
+        "classmap": [
+        ],
+        "psr-0": {
+            "Imagra\\Attachment": "src/"
+        }
+    }
 }
