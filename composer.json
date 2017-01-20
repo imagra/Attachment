@@ -1,0 +1,10 @@
+{
+    "name": "imagra/attachment",
+    "authors": [
+        {
+            "name": "imagra",
+            "email": "martin@imagra.ru"
+        }
+    ],
+    "require": {}
+}
