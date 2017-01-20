@@ -9,10 +9,8 @@
     "require": {},
     "minimum-stability": "dev",
      "autoload": {
-        "classmap": [
-        ],
         "psr-0": {
-            "Imagra\\Attachment": "src/"
+            "Imagra\\Attachment": "src"
         }
     }
 }
